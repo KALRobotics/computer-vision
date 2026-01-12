@@ -1,5 +1,9 @@
 # Computer Vision
 
-Vision processing code for FRC ECHO 9595.
+Vision processing for ECHO 9595: AprilTags, Limelight, targeting.
 
-Includes Limelight configs, calibration scripts, and documentation.
+## Structure
+- `apriltags/` — AprilTag detection and pose
+- `limelight/` — Limelight configs and pipelines
+- `camera-setup/` — Camera mounting, calibration
+- `docs/` — Vision guides
